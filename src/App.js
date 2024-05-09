@@ -1,8 +1,10 @@
+import { Smartphone } from './Smartphone.jsx';
+
 function App() {
   return (
-    <div>
-      hello world
-    </div>
+    <>
+      <Smartphone />
+    </>
   );
 }
 export default App;
